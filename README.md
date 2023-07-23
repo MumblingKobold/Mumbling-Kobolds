@@ -5,7 +5,7 @@ The official repository for the Mumbling Kobolds mod pack! Feel free to contribu
 
 **IMPORTANT**
 
-Make sure you disable vanilla bodies with Mumbling Kobolds. Tissue regeneration will most likely not work if it is active. Mumbling includes copies of other raws.
+Make sure you disable vanilla bodies with Mumbling Kobolds. Tissue regeneration will most likely not work if it is active. Mumbling includes copies of the other raws in vanilla bodies.
 
 **ADDED**
 
